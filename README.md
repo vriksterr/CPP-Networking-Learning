@@ -1,2 +1,2 @@
 # C++ Networking Learning
-where 
+this is where i am learning and developing networking 
